@@ -1,0 +1,52 @@
+
+body{
+
+    background-color: rgb(204, 179, 230);
+
+
+
+}
+
+
+
+h1{
+
+    color: rgb(143, 20, 20);
+    text-align:left;
+    font-family: sans-serif;
+    margin-left: 520px;
+    margin-right: 520px;
+}
+
+
+h2{
+
+    
+    color: rgb(143, 20, 20);
+    text-align:left;
+    font-family: sans-serif;
+    margin-left: 520px;
+    margin-right: 520px;
+
+
+
+}
+
+blockquote{
+
+    text-align:left;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-left: 520px;
+    margin-right: 520px;
+    line-height: 36px;
+}
+
+hr{
+
+    text-align: center;
+    background-color: black;
+    height: 5px;
+    width: 572px;
+
+}
